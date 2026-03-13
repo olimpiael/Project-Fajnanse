@@ -21,20 +21,6 @@ Fajnanse is a funny word in Polish. It is a combination of two words: *fajne* an
 
 With Fajnanse you can manage your finances. You can add new transactions, see your balance and see your transactions history. You can also recognize text from bills using Tesseract OCR. Parser will recognize the date, amount and currency of the transaction. You can also add new transactions by taking a photo of your bill. You can also see your transactions history in GUI. App will also recognize the type of the transaction (income or expense) and will automatically add it to your balance. Every position from your bill will be added to correct category. You can also add new categories and edit existing ones. You can also see your balance in GUI.
 
-## Features
-
-- [x] Compiling and running the hello world app
-- [x] Render GUI in browser
-- [x] Include Tesseract OCR
-- [ ] Include OpenCV
-- [x] Recognize text from image
-- [ ] Add new transactions
-- [ ] See your balance
-- [ ] See your transactions history
-- [ ] See your transactions history in GUI
-
-***TODO:*** add more features
-
 ### Job assignments
 
 - [ ] Łukasz Cieślik - CLI
@@ -121,6 +107,3 @@ We are students of Poznań University of Technology and we are building this app
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Project status
-
-Project is still in development. We are working on it every day. We are planning to finish it by the end of this semester. We are planning to add more features in the future. At the moment we are working on recognizing text from image and adding new transactions by taking a photo of your bill. We are also working on GUI.
