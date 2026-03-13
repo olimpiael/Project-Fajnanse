@@ -48,50 +48,6 @@ The app will run on __port 6080__, so you need to type in the browser: <http://l
 If you want to compile the app yourself, you need to use __CMake__ extension provided in codespace. You need to configure the project and later compile. In future __we will__ provide a script that will do that for you using buttons in vscode. For now you need to do it manually. 
 
 There is <kbd>F7</kbd> button in CMake extension that will configure the project for you. You need to click it and choose __GCC 10.2.0__ compiler. You need to do it only once. Later you can use <kbd>F7</kbd> button to compile the app. 
-## Usage
-
-In the GUI you can add new transactions, see your balance and see your transactions history.
-
-TODO: add more info how to use the app and how it works.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. We are open to any suggestions.
-
-There are some rules that you need to follow:
-
-- You need to use English in your code and in your commits.
-- You need to create a new branch for every feature you are working on.
-- You need to create a pull request to merge your branch with development branch.
-- [OPTIONAL] You create a pull request to merge development branch with main branch.
-- You need to know how to use CMake, git, GitHub, vscode and codespaces.
-- Please make sure to update tests and documentation as appropriate.
-- Please make sure to update the GUI and CLI as appropriate.
-- Please use __comments__ in your code.
-
-```cpp
-// This is a comment in C++ used for single line comments.
-```
-
-Or
-
-```cpp
-/*
-This is a comment in C++ used for multi line comments.
-Please use this type of comments for longer comments.
-Comments should be used to describe what the code does.
-*/
-int a = 5; // Creating a variable a and assigning value 5 to it.
-
-//              ^ This is bad comment. Please don't do that.
-```
-
-### Code style
-
-- Please use __camelCase__ for naming variables, functions, classes etc.
-- Please use __PascalCase__ for naming files.
-- Please use __snake_case__ for naming macros.
-- Please use __UPPERCASE__ for naming constants.
 
 ## Authors
 
